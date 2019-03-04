@@ -1,6 +1,6 @@
 Two-stream and convLSTM
 =====
-* **Description** :This is the sorce code  associated with the paper 《Two-Stream Convolutional Network for Improving Activity Recognition Using Convolutional Long Short-Term Memory Networks》
+* **Description** :This is the sorce code  associated with the paper *《Two-Stream Convolutional Network for Improving Activity Recognition Using Convolutional Long Short-Term Memory Networks》*
 * **File Description**：
   * CNN-GPUs：this is a floder contains implement of cnn used as Two-stram network, suporting to fine-tune on specific dataset with  multi-GPU
   * CNN-Pred-Feat:use the networks defined in the CNN-GPUs to extract both RGB feature description and optical feature description
